@@ -34,7 +34,7 @@ public class Bird : MonoBehaviour
         if(transform.position.y > 10 ||
          transform.position.x > 30 ||
          transform.position.y < -10 ||
-         transform.position.x < -30 ||
+         transform.position.x < -20 ||
          _timeSittingAround > 2)   //ben reset scene nese zogu del jashte kufijve te nivelit ose nese rri pa levizur per me shume se 3 njesi kohe
         {
             string currentSceneName = SceneManager.GetActiveScene().name;

@@ -1,0 +1,16 @@
+1.Change music, too annoying
+	-reggae/chill vibe stuff with guitars and longer lating track
+2.Fix the audio trigger for when the enemy dies
+3.Create menu
+4.New bird(heavy) made for new crates(much heavier than normal)
+*5.New bird (skinny) made or very easy to break structures (e.g: the platform) and costs much less  
+6.New areas with new skins
+7.New enemies(exploder)
+8.New Platform asset which breaks like a stick(possibilities for building unique structure physics)
+9.Create mechanic for multiple shots limit before level restarts, and different birds selection
+*10.Possible elexir-ish system for birds cost management. Seeds instead of elixir (remember the Plants VS Zombies sunlight system)
+******POSSIBLE NAME: BIRDS vs NERDS***************
+11.Add screen limits (character and camera shouldnt visualize beyond the background)	******???DONE???*******
+12.Fix the arrow. Get better image.
+*13.Add new level ZONES (desert, swamp, underworld, etc) each with its own enemies, birds, and music/art.
+14.Add sound to each bird when they are grabbed and thrown.
