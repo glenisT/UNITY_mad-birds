@@ -546,7 +546,7 @@ ScriptsOnlyBuild:
     className: CinemachinePostProcessing
   - hash:
       serializedVersion: 2
-      Hash: a2d6200d9c247c3611fae78c02fdec0b
+      Hash: c80f58ad6ea3bde5184dfa2b06994896
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Bird

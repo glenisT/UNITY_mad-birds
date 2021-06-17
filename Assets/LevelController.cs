@@ -12,7 +12,7 @@ public class LevelController : MonoBehaviour
 
     [SerializeField] private float _delayBeforeLoading = 5f;    //delay before loading next level
 
-    private float timeElapsed;  
+    private float timeElapsed;
 
     void OnEnable()
     {
@@ -26,19 +26,19 @@ public class LevelController : MonoBehaviour
 
         timeElapsed += Time.deltaTime;      //Time.deltaTime is the time elapsed between 2 frames A.K.A 2 Update() methods
 
-        
-        if(timeElapsed > _delayBeforeLoading)       //only then start checking...necessary order of coding events for this to work(before foreach check)
+
+        if (timeElapsed > _delayBeforeLoading)       //only then start checking...necessary order of coding events for this to work(before foreach check)
         {
 
-            
-        foreach (Enemy enemy in _enemies)    //loops over every enemy in the level to run the code below
-        {
-            if (enemy != null)   //if enemy is not dead exit out of Update
+
+            foreach (Enemy enemy in _enemies)    //loops over every enemy in the level to run the code below
             {
-                return;
+                if (enemy != null)   //if enemy is not dead exit out of Update
+                {
+                    return;
+                }
+
             }
-            
-        }
 
             Debug.Log("You killed all the enemies!");
 

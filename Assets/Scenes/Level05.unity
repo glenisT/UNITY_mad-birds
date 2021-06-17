@@ -552,7 +552,7 @@ GameObject:
   - component: {fileID: 526636350}
   - component: {fileID: 526636349}
   m_Layer: 0
-  m_Name: EnemySFXManager
+  m_Name: SFXManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1822,6 +1822,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c4de13e1ff2ea14d97a8fd6428477a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  source: {fileID: 526636349}
+  launchScream: {fileID: 8300000, guid: 46625f017245b914f9cf141fbbebbd74, type: 3}
   _launchPower: 500
 --- !u!120 &1428429480
 LineRenderer:
