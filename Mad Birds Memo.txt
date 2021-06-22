@@ -1,6 +1,6 @@
 1.Change music, too annoying
 	-reggae/chill vibe stuff with guitars and longer lating track
-2.Fix the audio trigger for when the enemy dies
+----2.Fix the audio trigger for when the enemy dies
 3.Create menu
 4.New bird(heavy) made for new crates(much heavier than normal)
 *5.New bird (skinny) made or very easy to break structures (e.g: the platform) and costs much less  
@@ -14,3 +14,5 @@
 12.Fix the arrow. Get better image.
 *13.Add new level ZONES (desert, swamp, underworld, etc) each with its own enemies, birds, and music/art.
 14.Add sound to each bird when they are grabbed and thrown.
+15.Add text popups on some levels
+16*.Add animations and the different monsters saying "youll never stop us" on main menu with different better background
