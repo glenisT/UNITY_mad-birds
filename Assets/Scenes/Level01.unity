@@ -319,7 +319,7 @@ AudioSource:
   m_GameObject: {fileID: 171613692}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -1878970653483920378, guid: bc7e68d26a2a8a94394f6d90e7ad69d2, type: 2}
   m_audioClip: {fileID: 8300000, guid: ead7b13dd88340a41bef8080bc724f23, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -695,7 +695,7 @@ AudioSource:
   m_GameObject: {fileID: 746058834}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: bce5d325a8fa10f43975ba2e84853cdc, type: 2}
   m_audioClip: {fileID: 8300000, guid: e41e8a2f9bf37364485d2cbe256fdb3e, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.6
@@ -1564,7 +1564,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   source: {fileID: 171613693}
   launchScream: {fileID: 8300000, guid: 46625f017245b914f9cf141fbbebbd74, type: 3}
-  slingshot: {fileID: 8300000, guid: da6748fb42412164bad703628288f9a1, type: 3}
+  slingshot: {fileID: 0}
   _launchPower: 500
 --- !u!120 &1428429480
 LineRenderer:
