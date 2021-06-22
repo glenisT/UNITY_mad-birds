@@ -1066,7 +1066,7 @@ ScriptsOnlyBuild:
     className: CinemachineFixedSignal
   - hash:
       serializedVersion: 2
-      Hash: d835e37be8caf473a0d64dc941f2a2a8
+      Hash: 72ca5d67a1c0bf9a27bdfc65a87e7a57
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: OptionsMenu
